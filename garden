@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF=8"/>
+        <title><tSAI GARDEN</title>
+    </head>
+    <BODY>
+        <!--基本標籤-->
+        <font color="WHITE">
+        <H1>WELCOME TO TSAI GARDEN</H1>
+        <h3>PHOTO</h3>
+        <p>今日相簿</p>
+        <A HREF="https://www.facebook.com/search/top?q=%E8%8F%9C%E5%9C%92%E5%AD%90">菜園子
+        </A>
+        <BR/>
+        <hr/>
+        <h3>ARTICLE</h3>
+        <p>今日文章</p>
+        <BR/>
+        <hr/>
+        <h3>DESIGN CONCEPT</h3>
+        <p>設計理念</p>
+       </font>
+        <body background="https://cdn.britannica.com/08/100608-050-684264CB/Saguaro-cactus-Arizona.jpg"菜園子></body>
+    </BODY>
+</html>
